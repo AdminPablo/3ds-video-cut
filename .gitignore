@@ -1,0 +1,20 @@
+# Build output
+build/
+*.o
+*.d
+*.elf
+*.3dsx
+*.smdh
+*.map
+*.lst
+
+# Local IDE/editor state
+.vs/
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# SD card/runtime output
+3DSVideoCut/
